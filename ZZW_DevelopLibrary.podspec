@@ -2,8 +2,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZZW_DevelopLibrary'
-  s.version          = '0.1.0'
-  s.summary          = 'UI组件库'
+  s.version          = '0.1.2'
+  s.summary          = '周泽苹果开发组件库'
 
   s.description      = <<-DESC
     包含了启动页广告功能
