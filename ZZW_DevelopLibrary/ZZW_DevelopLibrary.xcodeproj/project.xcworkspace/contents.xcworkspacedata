@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:TestGit.xcodeproj">
+      location = "self:ZZW_DevelopLibrary.xcodeproj">
    </FileRef>
 </Workspace>
