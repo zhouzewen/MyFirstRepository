@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ZZW_DevelopLibrary.xcodeproj">
+      location = "self:ZZW_DLTest.xcodeproj">
    </FileRef>
 </Workspace>

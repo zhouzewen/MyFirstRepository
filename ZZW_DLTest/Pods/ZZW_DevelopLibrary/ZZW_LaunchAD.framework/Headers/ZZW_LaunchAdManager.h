@@ -14,4 +14,3 @@
 @property(nonatomic,strong)UIImage *adImage;
 +(instancetype )shareInstance;
 @end
-

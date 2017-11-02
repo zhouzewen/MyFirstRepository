@@ -1,0 +1,17 @@
+#podspec仓库的路径
+#source 'https://gitee.com/zhouzheren/TestRepo.git'
+#source 'http://10.134.150.205/iOS/FTG_Specs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+#source 'https://gitee.com/zhouzheren/MyRepo.git'
+source 'https://github.com/zhouzewen/ZZW_Podspecs.git'
+
+
+platform :ios,'8.0'
+target 'ZZW_DLTest' do
+use_frameworks!
+#pod "AFNetworking" 
+#pod "MyAdditions" 
+#pod "TestFramework"
+#pod "FTG_UIFramework"
+pod "ZZW_DevelopLibrary"
+end 

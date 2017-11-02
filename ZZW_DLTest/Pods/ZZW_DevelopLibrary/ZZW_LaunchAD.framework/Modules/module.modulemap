@@ -1,0 +1,6 @@
+framework module ZZW_LaunchAD {
+  umbrella header "ZZW_LaunchAD.h"
+
+  export *
+  module * { export * }
+}

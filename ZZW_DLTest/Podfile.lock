@@ -1,0 +1,12 @@
+PODS:
+  - ZZW_DevelopLibrary (0.1.2)
+
+DEPENDENCIES:
+  - ZZW_DevelopLibrary
+
+SPEC CHECKSUMS:
+  ZZW_DevelopLibrary: b9c707f35cb26eda0694587a2eba4a17698ff611
+
+PODFILE CHECKSUM: afb8ef611971927dddad113eb7ccef91e1880943
+
+COCOAPODS: 1.2.1
